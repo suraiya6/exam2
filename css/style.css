@@ -17,30 +17,31 @@ body{
     border-radius: 50%;
 }
 .box{
-	width: 70px;
-    height: 70px;
-  background: red;
+	width: 100px;
+    height: 100px;
+    background: red;
     border-radius: 50px 50px 0px 0px;
     position: absolute;
     left: 16%;
-    top: 40%;
+    top: 33%;
+
 }
 .box2{
-	width: 70px;
-    height: 70px;
+	width: 100px;
+    height: 100px;
     background: #352f2f;
     border-radius: 0px 0px 50px 50px;
     position: absolute;
-    left: 0%;
+    left: -6%;
     top: 56%;
 
 }
 .box3{
-	width: 70px;
-    height: 70px;
+	width: 100px;
+    height: 100px;
     background: #352f2f;
     border-radius: 0px 0px 50px 50px;
     position: absolute;
-    left: 32%;
+    left: 38%;
     top: 56%;
 }
